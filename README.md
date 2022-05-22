@@ -2,3 +2,5 @@
 
 
 Creación de una API en pythonanywhere en la cuál, a través de los diferentes endpoints, pudes entrenar un modelo de machine learning, predecir introduciendo nuevos parametros y reentrenar dicho modelo. 
+
+Introduciendo la inversión a realizar en television, radio y periodicos te devuelve la previsión de los beneficios obtenidos. 
